@@ -1,13 +1,9 @@
 * Fall 2021 - Lab Cipher
 
-* Last name:
-
-* First name:
-
-* GitHub username:
-
+* Last name: Lee
+* First name: Sam
+* GitHub username: samlee03
 * Notes:
-
 
 
 * General instructions:
